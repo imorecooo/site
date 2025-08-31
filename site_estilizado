@@ -1,1 +1,186 @@
+<!DOCTYPE html>
+<html lang="pt-br">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vinicius Moresco</title>
+    <link rel="icon" type="image/png" href="icone.png">
+</head>
+
+<body bgcolor="#1c1a19">
+
+    <!-- Cabecalho -->
+
+    <table width="100%" bgcolor="#820e0e" cellpadding="10">
+
+        <tr>
+            <td align="center" width="20%">
+                <img src="cima.jpeg" alt="Logo" height="200">
+            </td>
+            <td align="left" width="80%">
+                <font color="fcfcfc" size="27" face="Arial,sans-serif">Vinicius Moresco <br> </font>
+                <font color="fcfcfc" size="22" face="Arial,sans-serif">Cursando Engenharia de Software</font>
+            </td>
+        </tr>
+    </table>
+
+    <!-- Corpo -->
+
+    <table width="100%" bgcolor="1c1a19" cellpadding="10">
+        <tr>
+            <td>
+                <h1 align="center">
+                    <font face="Arial, sans-serif" color="#fcfcfc" size="8">Sobre Mim</font>
+                </h1>
+                <p align="center">
+                    <font face="Arial, sans-serif" color="#fcfcfc" size="6">Meu nome é Vinicius Moresco, tenho 24 anos e
+                        trabalho como operador de máquina na Schulz, onde atuo há 4 anos. Sou uma pessoa dedicada e
+                        sempre aberta a novos aprendizados. Nos meus momentos de lazer, gosto de assistir meu time jogar
+                        e de viajar, explorando lugares novos e vivendo novas experiências.</font>
+                </p>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <hr>
+
+    <h1 align="center">
+        <font face="Arial, sans-serif" color="#fcfcfc" size="8">Objetivos Profissionais</font>
+    </h1>
+    <p align="center" style="width: 100%;">
+        <font face="Arial, sans-serif" color="#fcfcfc" size="6">Busco aprimorar minhas habilidades em desenvolvimento de
+            software, aprender novas tecnologias e conquistar uma posição de destaque na área de tecnologia. Meu foco é
+            continuar aprendendo, colaborar em projetos inovadores e alcançar uma posição sênior, com o objetivo de
+            impactar positivamente a sociedade.</font>
+    </p>
+    <br>
+    <hr>
+
+    <h1 align="center">
+        <font face="Arial, sans-serif" color="fcfcfc" size="8">Objetivo Pessoal</font>
+    </h1>
+
+    <ul align="center">
+        <li>
+            <font face="Arial, sans-serif" color="#fcfcfc" size="6">Crescer sempre</font>
+        </li>
+        <li>
+            <font face="Arial, sans-serif" color="#fcfcfc" size="6">Alcançar meus sonhos
+            </font>
+        </li>
+        <li>
+            <font face="Arial, sans-serif" color="#fcfcfc" size="6">Aprender todos os dias
+            </font>
+        </li>
+        <li>
+            <font face="Arial, sans-serif" color="#fcfcfc" size="6">Evoluir como pessoa
+            </font>
+        </li>
+        <li>
+            <font face="Arial, sans-serif" color="#fcfcfc" size="6">Conquistar estabilidade
+            </font>
+        </li>
+        <li>
+            <font face="Arial, sans-serif" color="#fcfcfc" size="6">Ter saúde e paz</font>
+        </li>
+    </ul>
+
+    <br>
+    <hr>
+
+    <h1 align="center">
+        <font face="Arial, sans-serif" color="fcfcfc" size="8"> Cursos Realizado</font>
+    </h1>
+
+    <ul align="center">
+        <li>
+            <font face="Arial, sans-serif" color="#fcfcfc" size="6">tecnico em qualidade</font>
+        </li>
+        <li>
+            <font face="Arial, sans-serif" color="#fcfcfc" size="6">Análise e desenvolvimento de sistema (Cursando)
+            </font>
+        </li>
+        <li>
+            <font face="Arial, sans-serif" color="#fcfcfc" size="6">Engenharia de Software (Cursando)</font>
+        </li>
+    </ul>
+
+    <br>
+    <hr>
+
+    <h1 align="left">
+        <font face="Arial, sans-serif" color="#fcfcfc" size="6">Meus Hobbies</font>
+    </h1>
+    <table border="1" cellpadding="10" cellspacing="0" width="100%">
+        <tr>
+            <th width="33%">
+                <font face="Arial, sans-serif" color="fcfcfc" size="4">Assistir JEC</font>
+            </th>
+            <th width="33%">
+                <font face="Arial, sans-serif" color="fcfcfc" size="4">Viajar</font>
+            </th>
+            <th width="33%">
+                <font face="Arial, sans-serif" color="fcfcfc" size="4">Jogar Videogame</font>
+            </th>
+        </tr>
+    </table>
+    <br>
+
+
+    <h1 align="center">
+        <font face="Arial, sans-serif" color="#fcfcfc" size="5">Videos e fotos dos meus Hobbies</font>
+    </h1>
+    <br> <br>
+
+    <div align="center">
+        <video width="800" height="800" controls>
+            <source src="jec.mp4" type="video/mp4">
+            Seu navegador não suporta vídeo.
+        </video>
+    </div>
+    <br>
+    <br>
+
+    <center>
+        <img src="eu.jpeg">
+        <img src="eu1.jpeg">
+        <img src="eu2.jpeg">
+    </center>
+
+    <hr>
+    <br>
+    <!-- final -->
+
+    <table width="90%" align="center" bgcolor="#b50d0d" cellpadding="15">
+        <tr>
+            <td align="left" width="200" height="100">
+                <img src="Joinville.jpg" alt="Ícone" width="230">
+            </td>
+
+            <td align="center">
+                <h2>
+                    <font face="Arial, sans-serif" color="#ffffff" size="8">Contatos</font>
+                </h2>
+                <p>
+                    <a href="mailto:vinicius.moresco@catolicasc.edu.br">
+                        <font face="Arial" color="#ffffff" size="6">Enviar E-mail</font>
+                    </a>
+                </p>
+                <p>
+                    <a href="https://www.instagram.com/vinicius_moresco " target="_blank">
+                        <font face="Arial" color="#ffffff" size="6">Instagram</font>
+                    </a>
+                </p>
+                <p>
+                    <a href="https://jec.com.br/" target="_blank">
+                        <font face="Arial" color="#ffffff" size="6">Maior De SC</font>
+                    </a>
+                </p>
+            </td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
